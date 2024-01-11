@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activity_n3_MVVM</string>
+    <string name="heading">MVVM Architecture Pattern</string>
+    <string name="email_hint">Entrez votre identiant email </string>
+    <string name="password_hint">Entrez votre mot de passe</string>
+    <string name="button_text">Connexion</string>
+</resources>
